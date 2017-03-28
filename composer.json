@@ -1,0 +1,21 @@
+{
+    "name": "kaikaige/yii2-gridview",
+    "description": "Elemnet UI grid view.",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "BSD-4-Clause",
+    "authors": [
+        {
+            "name": "kaikaige",
+            "email": "396929174@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "kaikaige\\gridview\\": ""
+        }
+    }
+}
